@@ -1,0 +1,21 @@
+[  {
+    "timestamp": "2025-06-24T18:27:27.239324",
+    "input": "Hi I am feeling a little tired and now I am having some coffee which is keeping me alive  ",
+    "response": " Mood: Tired\nEnergy: 3/10\nSuggestion: Consider taking a short nap or engaging in a gentle activity to help recharge your energy levels."
+  },
+  {
+    "timestamp": "2025-06-24T19:03:50.146680",
+    "input": "Hi I am feeling tired today ",
+    "response": " Mood: Tired\nEnergy: 3/10\nSuggestion: Consider taking a short nap or practicing some gentle yoga to help rejuvenate you."
+  },
+  {
+    "timestamp": "2025-06-24T19:04:19.371350",
+    "input": "Now I am feeling better after doing some yoga ",
+    "response": " Mood: Improved\nEnergy: 6/10 (Post-exercise boost)\nSuggestion: Keep up the good work! Regular exercise can help manage stress and improve overall well-being."
+  },
+  {
+    "timestamp": "2025-06-24T19:37:50.048605",
+    "input": "Hi I am feeling happy now ",
+    "response": " Mood: Happy\nEnergy: 8/10\nSuggestion: Enjoy this moment of happiness and let it fill you with positivity for the rest of the day!"
+  }
+]

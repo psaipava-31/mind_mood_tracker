@@ -1,0 +1,16 @@
+
+
+-> Now we have succesfully saw that it is working fine with CLI , Now we are building an chat User Interface with 
+streamlit UI . 
+-> 
+
+
+
+1. Why am I using the __name__ == "__main__" in main.py ??
+
+(Ans) I am doing this so that , I want this to be run only when this file wants to be run directly not when
+it is run by other file which is importing it 
+
+
+
+

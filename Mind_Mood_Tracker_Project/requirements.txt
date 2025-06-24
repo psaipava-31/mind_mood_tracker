@@ -1,0 +1,7 @@
+langchain-openai
+langchain
+tqdm
+python-dotenv
+matplotlib 
+pandas
+

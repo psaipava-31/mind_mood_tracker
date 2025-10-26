@@ -16,6 +16,11 @@ Here is a quick overview of the project :-
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/928a72ab-6521-4775-8209-febc3c95d918" />
 
+We have a feature to generate a weekly report for the mood :- 
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/d3146cb6-427e-417b-be94-8e585932bfb8" />
+
+
 🚀 Features
 
 ✅ Emotion Detection & Reflection

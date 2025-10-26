@@ -12,6 +12,8 @@ It leverages Local LLMs (Mistral via Ollama) for contextual understanding and St
 
 This project demonstrates how LLMs + NLP + Visualization can be combined to create a meaningful AI application focused on mental wellness and emotional intelligence.
 
+Here is a quick overview of the project :- 
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/928a72ab-6521-4775-8209-febc3c95d918" />
 
 🚀 Features
 
@@ -27,7 +29,8 @@ Visualize emotional trends over time with interactive charts (Plotly).
 ✅ Local & Private AI Processing
 Runs locally using Ollama + Mistral, ensuring data privacy and security.
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/928a72ab-6521-4775-8209-febc3c95d918" />
+
+
 
 
 

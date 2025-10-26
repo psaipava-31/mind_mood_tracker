@@ -1,4 +1,4 @@
-“Understanding yourself is the first step toward emotional intelligence — this project aims to make that journey easier with AI.” 💫
+<img width="1010" height="671" alt="image" src="https://github.com/user-attachments/assets/de814a9c-5647-4d20-84ae-7c020a8f6f9e" />“Understanding yourself is the first step toward emotional intelligence — this project aims to make that journey easier with AI.” 💫
 
 🧠 Mind & Mood Tracker
 
@@ -26,4 +26,10 @@ Visualize emotional trends over time with interactive charts (Plotly).
 
 ✅ Local & Private AI Processing
 Runs locally using Ollama + Mistral, ensuring data privacy and security.
+
+<img width="1010" height="671" alt="image" src="https://github.com/user-attachments/assets/928a72ab-6521-4775-8209-febc3c95d918" />
+
+
+
+
 
